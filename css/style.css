@@ -1,0 +1,47 @@
+body{
+    width: auto;
+    height: auto;
+    margin: 0;
+
+}
+
+.Phase1{
+    background-color: cornflowerblue;
+    background-image: url(../img/pattern.png);
+    padding-top: 50px;
+
+}
+
+.logo{
+    height: 100px;
+}
+
+section{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+footer{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.light-blue{
+    background-color: blue;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+.white{
+    background-color: brown;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+h4{
+    margin: 0;
+}
